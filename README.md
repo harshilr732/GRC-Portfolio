@@ -1,9 +1,9 @@
 # Governance, Risk, and Compliance (GRC) Portfolio
 
 ## 👨‍💻 About Me
-**[Your Name]**
-*Junior GRC Analyst & IT Security Professional*
-📍 Vadodara, Gujarat | Open to Relocation (Ahmedabad, Hyderabad, Remote)
+**Harshil Reddy**
+*Junior Network Engineer Want to make transition to GRC domain*
+📍 Vadodara, Gujarat | Open to Relocation (Ahmedabad,Surat) | Open for remote Opportunities.
 
 I am an IT professional transitioning from Network Engineering into Governance, Risk, and Compliance (GRC). Leveraging my hands-on background with Cisco infrastructure, SOC operations, and Python development, I specialize in translating complex technical realities into actionable business risk and compliance frameworks. 
 
@@ -31,10 +31,8 @@ A full data lifecycle privacy assessment for an AI-powered Video KYC and credit 
 ---
 
 ## 🛠️ Core Competencies
-* **Frameworks & Regulations:** ISO 27001, ISO 27701, NIST CSF, GDPR, India DPDP Act 2023, CSA CAIQ.
-* **Technical Foundation:** Network Routing & Switching, SOC Fundamentals, AWS Cloud Infrastructure, Active Directory / IAM.
+* **Frameworks & Regulations:** ISO 27001, NIST CSF, GDPR, India DPDP Act 2023, CSA CAIQ.
+* **Technical Foundation:** Network Routing & Switching, SOC Fundamentals, Active Directory / IAM.
 * **GRC Operations:** Internal Auditing, Vendor Risk Management, Policy Drafting, Data Mapping, and Risk Registers.
 
 ---
-
-*📫 Contact me via [LinkedIn Profile Link] or at [Your Email Address]*
